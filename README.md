@@ -26,7 +26,7 @@ Please install `fire` and `questionary` modules to your python.
 
 Open the terminal and run the command below;
 
-   python app.py
+    python app.py
 
 Answer the questions to see qualifying loans.
 
