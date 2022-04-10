@@ -28,7 +28,8 @@ Open the terminal and run the command below;
 
     python app.py
 
-==Answer the questions to see qualifying loans.==
+
+    ==Answer the questions to see qualifying loans.==
 
 ---
 
