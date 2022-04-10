@@ -9,6 +9,7 @@ Loan qualifier aplication is a [Python](https://www.python.org/) command-line in
 This application is written in `python 3.9.7` with the packages below;
 
 -*fire*
+
 -*questionary*
 
 ---
